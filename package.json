@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "cli-table": "^0.3.1",
-    "gulp-jasmine": "^2.3.0",
+    "gulp-jasmine": "^4.0.0",
     "pem": "^1.8.1"
   },
   "private": true
