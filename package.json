@@ -27,7 +27,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.3",
     "moment": "^2.11.1",
-    "mongodb": "^2.1.2",
+    "mongodb": "^3.5.8",
     "natural": "^0.2.1",
     "nlp_compromise": "^2.0.1",
     "prettyjson": "^1.1.3",
